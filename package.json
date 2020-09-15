@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Oscar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
